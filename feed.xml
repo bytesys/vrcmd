@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>VRCMD</title>
+    <link href="https:// vrcmd.com/feed.xml" rel="self" />
+    <link href="https:// vrcmd.com" />
+    <updated>2026-04-10T21:40:56+02:00</updated>
+    <author>
+        <name>VRCMD Editorial</name>
+    </author>
+    <id>https:// vrcmd.com</id>
+
+    <entry>
+        <title>Virtual Reality, XR Tools &amp; Immersive Workflows</title>
+        <author>
+            <name>VRCMD Editorial</name>
+        </author>
+        <link href="https:// vrcmd.com/virtual-reality-xr-tools-and-immersive-workflows.html"/>
+        <id>https:// vrcmd.com/virtual-reality-xr-tools-and-immersive-workflows.html</id>
+
+        <updated>2026-04-10T21:40:56+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Explore practical guides to virtual reality hardware, XR tools, immersive software, spatial computing, and the technical workflows behind interactive digital environments. VRCMD covers virtual reality systems, XR tools, immersive interfaces, and practical workflows for understanding the hardware, software, and infrastructure behind modern spatial computing. ##&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Explore practical guides to virtual reality hardware, XR tools, immersive software, spatial computing, and the technical workflows behind interactive digital environments.<br><br>VRCMD covers virtual reality systems, XR tools, immersive interfaces, and practical workflows for understanding the hardware, software, and infrastructure behind modern spatial computing.<br><br>## What VRCMD covers<br><br>**Virtual Reality**<br>Headsets, tracking systems, input devices, display technology, and the platforms powering immersive experiences.<br><br>**XR Tools**<br>Developer tools, software stacks, engines, and technical systems used to build and manage immersive applications.<br><br>**Spatial Computing**<br>3D interfaces, mixed environments, interaction models, and the broader shift toward computing in physical space.<br><br>**Immersive Software**<br>Apps, runtimes, rendering pipelines, simulation systems, and the tools used to create virtual experiences.<br><br>**Automation**<br>Command-line tools, deployment workflows, technical setups, and repeatable processes for immersive technology projects.<br><br>Read more</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

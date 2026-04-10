@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "VRCMD",
+    "description": "",
+    "home_page_url": "https:// vrcmd.com",
+    "feed_url": "https:// vrcmd.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "VRCMD Editorial"
+    },
+    "items": [
+        {
+            "id": "https:// vrcmd.com/virtual-reality-xr-tools-and-immersive-workflows.html",
+            "url": "https:// vrcmd.com/virtual-reality-xr-tools-and-immersive-workflows.html",
+            "title": "Virtual Reality, XR Tools &amp; Immersive Workflows",
+            "summary": "Explore practical guides to virtual reality hardware, XR tools, immersive software, spatial computing, and the technical workflows behind interactive digital environments. VRCMD covers virtual reality systems, XR tools, immersive interfaces, and practical workflows for understanding the hardware, software, and infrastructure behind modern spatial computing. ##&hellip;",
+            "content_html": "<p>Explore practical guides to virtual reality hardware, XR tools, immersive software, spatial computing, and the technical workflows behind interactive digital environments.<br><br>VRCMD covers virtual reality systems, XR tools, immersive interfaces, and practical workflows for understanding the hardware, software, and infrastructure behind modern spatial computing.<br><br>## What VRCMD covers<br><br>**Virtual Reality**<br>Headsets, tracking systems, input devices, display technology, and the platforms powering immersive experiences.<br><br>**XR Tools**<br>Developer tools, software stacks, engines, and technical systems used to build and manage immersive applications.<br><br>**Spatial Computing**<br>3D interfaces, mixed environments, interaction models, and the broader shift toward computing in physical space.<br><br>**Immersive Software**<br>Apps, runtimes, rendering pipelines, simulation systems, and the tools used to create virtual experiences.<br><br>**Automation**<br>Command-line tools, deployment workflows, technical setups, and repeatable processes for immersive technology projects.<br><br>Read more</p>",
+            "author": {
+                "name": "VRCMD Editorial"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-04-10T21:40:56+02:00",
+            "date_modified": "2026-04-10T21:40:56+02:00"
+        }
+    ]
+}
